@@ -17,12 +17,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Data Science <span style="color:#f58506"> Portfolio </span>
 location: "Dublin, OH"
-resume_url: /img/Greg_Nemetz_Resume.pdf
-avatar_image: /img/Profile_Pic_v1.jpg
+resume_url: /img/Greg_Nemetz%20_Resume.pdf
+avatar_image: /img/Profile_Pic_%20v1.jpg
 
 #-------------------------------
 # Contact links
-linkedln: "www.linkedin.com/in/greg-nemetz" # Add your linkedln handle
+linkedln: "https://www.linkedin.com/in/greg-nemetz?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bspg4ldfzRE2hDYr4lAJVZQ%3D%3D" # Add your linkedln handle
 github: "https://github.com/gnemetz"  # Add your github handle
 
 paginate: 6
